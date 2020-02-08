@@ -19,7 +19,7 @@ public class HarryPotter {
 	private boolean cloakOn;
 
 	HarryPotter() {
-		System.out.println("making Harry Potter...");
+		System.out.println("making Matilda Mayweather...");
 	}
 
 	void castSpell(String spell) {
@@ -30,13 +30,13 @@ public class HarryPotter {
 		this.cloakOn = invisible;
 
 		if (cloakOn)
-			System.out.println("Harry is invisible");
+			System.out.println("Matilda Mayweather is invisible");
 		else
-			System.out.println("Harry is visible");
+			System.out.println("Matilda Mayweather is visible");
 	}
 
 	void spyOnSnape() {
-		System.out.println("Harry sees Professor Snape doing nefarious things.");
+		System.out.println("Matilda Mayweather sees Professor Snape doing nefarious things.");
 	}
 
 }

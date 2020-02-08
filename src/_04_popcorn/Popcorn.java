@@ -51,7 +51,7 @@ public class Popcorn {
 
 	Popcorn(String flavor) {
 		this.flavor = flavor;
-		System.out.println("Popcorn says: making package of " + this.flavor + " popcorn.");
+		System.out.println("Popcorn says: making package of " + this.flavor + " popcorn instead.");
 	}
 
 	public void eat() {
